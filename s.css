@@ -1,0 +1,53 @@
+*{
+    color: #ffffff;
+font-size: 27px;
+font-family: sans-serif;
+}
+.propiedades {
+position: absolute;
+top: 88px;
+left: 53px;
+}
+.cargo {
+position: absolute;
+top: 180px;
+left: 51px;
+font-size: 37px;
+}
+.fecha_inicio {
+position: absolute;
+top: 668px;
+left: 312px;
+font-size: 22px;
+}
+.direccion_gh {
+position: absolute;
+top: 699px;
+left: 117px;
+font-size: 22px;
+}
+.coordinadora_gh {
+position: absolute;
+top: 847px;
+left: 98px;
+}
+.asistente_gh {
+position: absolute;
+top: 844px;
+left: 641px;
+}
+.mail_coord_gh {
+position: absolute;
+top: 920px;
+left: 139px;
+}
+.mail_asist_gh {
+position: absolute;
+top: 920px;
+left: 681px;
+}
+.tel_asist_gh {
+position: absolute;
+top: 959px;
+left: 681px;
+}
